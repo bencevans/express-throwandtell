@@ -1,0 +1,26 @@
+{
+  "name": "express-throwandtell",
+  "version": "0.1.0",
+  "description": "Express Errow ThrowAndTell(.com) Reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bencevans/bindbook.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "error",
+    "next",
+    "report",
+    "throwandtell"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "throwandtell": "~0.1.0"
+  }
+}
