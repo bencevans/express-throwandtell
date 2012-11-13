@@ -14,6 +14,7 @@ module.exports = function(userOptions) {
 
   return function(err, req, res, next) {
     throwandtell.report(err);
+    next(err);
   };
 
 };
